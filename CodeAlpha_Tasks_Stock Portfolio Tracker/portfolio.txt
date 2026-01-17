@@ -1,0 +1,4 @@
+Portfolio Details
+AAPL 20
+TSLA 45
+Total 14850
